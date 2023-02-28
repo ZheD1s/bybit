@@ -26,3 +26,5 @@ for _ in range(3600):
         old_price = new_price
         print(new_price)
     time.sleep(1)
+
+# Говоря о втором вопросе, использовал API ByBit. Также применил простую if в отношении изменения цена на 1%.
